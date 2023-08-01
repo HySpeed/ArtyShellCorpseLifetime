@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.3.0
+  Changes:
+    - Updated Settings
+    - Updated particle values
+    - Thanks to CodeGreen__ for help
+    - 3 minute duration
+---------------------------------------------------------------------------------------------------
 Version: 0.2.0
   Changes:
     - Updated naming
