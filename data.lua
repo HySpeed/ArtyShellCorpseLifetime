@@ -1,1 +1,1 @@
-require( "prototypes.arty-shell-particle" )
+require( "prototypes.artillery-shell-particle" )
